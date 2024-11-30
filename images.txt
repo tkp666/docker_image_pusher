@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:21.10-py3
+pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
